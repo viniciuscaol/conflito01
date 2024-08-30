@@ -1,6 +1,5 @@
 function greet(name) {
-    return `Hello, ${name}!`;
-}
+    return `Hi, ${name}!`; 
 
 function farewell(name) {
     return `Bye, ${name}!`;
